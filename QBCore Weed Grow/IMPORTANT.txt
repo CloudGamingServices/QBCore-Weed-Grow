@@ -1,0 +1,9 @@
+You need create items in your qbcore framework. qb-core/shared/items.lua file
+
+Item list:
+
+weed_seed
+water
+dust
+weed
+fertilizer
