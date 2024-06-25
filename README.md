@@ -2,7 +2,6 @@
 QBCore Weed Grow
 
 
-Made By @Whimsickle_ 
-^Discord
+Made By @Whimsickle_ On Discord
 
 cloud-gaming.uk
